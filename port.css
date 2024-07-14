@@ -6,6 +6,47 @@
     box-sizing: border-box;
     font-family:"Playwrite CU", cursive;
 }
+h1{
+    text-align: center;
+}
+.A{
+min-height: 100vh;
+min-width: 100%;
+background-color:black;
+
+}
+
+.navlist {
+
+justify-content: center;
+align-items: center;
+text-align: center;
+background-color: rgb(117,88,45);
+
+}
+
+.A ul li {
+     position: relative;
+     display: inline-flex;
+     margin: 20px;
+     padding: 10px;
+
+}
+
+.A ul li a {
+    text-decoration:none ;
+    color:whitesmoke;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+.A ul li a:hover{
+
+    color:rgb(9, 41, 9);
+
+}
+
 
 
 
